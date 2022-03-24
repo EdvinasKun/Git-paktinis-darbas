@@ -1,0 +1,17 @@
+* e47d607 paskutinis commitas
+*   97994a0 Merge pull request #1 from EdvinasKun/jp-21
+|\  
+| *   ea30743 merged
+| |\  
+| | *   e78cb75 Merge branch 'main' of https://github.com/EdvinasKun/Git-paktinis-darbas
+| | |\  
+| |_|/  
+|/| |   
+* | | 246c0ad Add vilnius
+| | * 95544a2 add ignore
+| |/  
+|/|   
+| * 47a714f add jp21
+|/  
+* 3cf85e5 add studentas2
+* bc92e7d add studentas
